@@ -2,7 +2,7 @@ export default function Page() {
     return (
         <>
         <div>
-            <h1>Ini Nested</h1>
+            <h1>Ini Nested a</h1>
         </div>
         </>
     )
